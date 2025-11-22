@@ -1,5 +1,5 @@
 # codetogether
 
-## 1. Count Good Nodes in Binary Trees
+## 1. Count Good Nodes in a Binary Tree.
 ## 2. Validate Binary Search Tree.
-## 3. 
+## 3. Kth Smallest Node in BST.
